@@ -1,0 +1,1 @@
+ C:\\Users\\guruk\\StudioProjects\\moving_square\\.dart_tool\\flutter_build\\13b589e661d5b9f25ad43c94d326a1d5\\native_assets.yaml: 
